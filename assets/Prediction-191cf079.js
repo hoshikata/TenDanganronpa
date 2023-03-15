@@ -1,4 +1,4 @@
-import{o as Ae,c as ee,a as J,_ as OB,u as No,b as Xo,r as _t,d as Jo,e as Yo,f as Wo,n as Ue,g as qt,h as zt,F as SB,i as TB,t as GB,j as Zo,k as _o,p as qo,l as zo}from"./index-e4b33436.js";const jo="/TenDanganronpa/assets/iei_bg-19ea3630.png",$o="/TenDanganronpa/assets/iei_frame-d3bafc95.png",Ai="/TenDanganronpa/assets/iei_ribbon-e26eab76.png";/*!
+import{o as Ae,c as ee,a as J,_ as OB,u as No,b as Xo,r as _t,d as Jo,e as Yo,f as Wo,n as Ue,g as qt,h as zt,F as SB,i as TB,t as GB,j as Zo,k as _o,p as qo,l as zo}from"./index-a815d9dc.js";const jo="/TenDanganronpa/assets/iei_bg-19ea3630.png",$o="/TenDanganronpa/assets/iei_frame-d3bafc95.png",Ai="/TenDanganronpa/assets/iei_ribbon-e26eab76.png";/*!
  * html2canvas 1.4.1 <https://html2canvas.hertzen.com>
  * Copyright (c) 2022 Niklas von Hertzen <https://hertzen.com>
  * Released under MIT License
